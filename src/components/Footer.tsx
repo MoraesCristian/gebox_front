@@ -13,7 +13,7 @@ export function Footer() {
         <div className="md:col-span-2">
           <div className="flex items-center gap-2 font-bold text-lg mb-4">
             <img src={logo} alt="Contábil" className="w-9 h-9" />
-            GEBOX
+            GEBOX Contabilidade
           </div>
             <div className="mt-6 flex items-center gap-4">
               <div className="rounded-xl border border-border bg-background p-3 shadow-sm w-36 h-24 flex items-center justify-center">

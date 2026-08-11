@@ -33,7 +33,7 @@ export function Navbar() {
       <nav className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
         <Link to="/" className="flex items-center gap-2 font-bold text-lg">
           <img src={logo} alt="Gebox" className="w-9 h-9" />
-          <span>GeBox<span className="gradient-text"></span></span>
+          <span>GEBOX Contabilidade<span className="gradient-text"></span></span>
         </Link>
 
         <div className="hidden md:flex items-center gap-1">

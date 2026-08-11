@@ -14,7 +14,7 @@ export const Route = createFileRoute("/servicos")({
 const servicos = [
   { icon: Users, title: "Abertura de empresa", desc: "Abra seu CNPJ " },
   { icon: Building2, title: "Contabilidade completa", desc: "Tempo e segurança para gerir seu negócio." },
-  { icon: Receipt, title: "RH - Folha de pagamento", desc: "Admistração sem segredo." },
+  { icon: Receipt, title: "RH - Folha de pagamento", desc: "Adimistração sem segredo." },
   { icon: FileText, title: "Emissão de relatórios", desc: "Tudo auditado para sua proteção." },
   { icon: Briefcase, title: "ERP", desc: "Integre o fluxo de informação." },
   { icon: TrendingUp, title: "Consultoria Tributária", desc: "Planejamento para reduzir impostos de forma legal e segura." },

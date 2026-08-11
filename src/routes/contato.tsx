@@ -46,7 +46,7 @@ function Contato() {
     {
       icon:MousePointerClick,
       title: 'Clique',
-      value: 'Clique nos icones acima para ser redirecionado'
+      value: 'Clique nos ícones acima para ser redirecionado'
     },
   ];
 

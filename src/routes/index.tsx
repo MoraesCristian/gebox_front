@@ -9,7 +9,7 @@ export const Route = createFileRoute("/")({
   component: Index,
   head: () => ({
     meta: [
-      { title: "GEBOX — Contabilidade digital para o seu negócio" },
+      { title: "GEBOX Contabilidade digital para o seu negócio" },
       { name: "description", content: "Contabilidade online, transparente e fluida. Planos mensais sem burocracia." },
     ],
   }),

@@ -17,7 +17,7 @@ const planos = [
   {
     name: "Box MEI",
     price: "89",
-    desc: "Para você micro empreendedor.",
+    desc: "Para você microempreendedor.",
     invoincing:'R$6.750 mês',
     features: ['Apoio NF-e, NFS-e, NFC-e', 'Contabilidade Completa','Suporte Online via WhatsApp'],
     highlight: false,
@@ -27,7 +27,7 @@ const planos = [
     price: "179",
     desc: "Para você que está começando",
     invoincing:'R$8.000 mês',
-    features: ['RH/Folha de pagamento - 1 Funcionario ','Apoio NF-e, NFS-e, NFC-e','Contabilidade Completa','Suporte Online via WhatsApp', 'Envio Mensal de CND'],
+    features: ['RH/Folha de pagamento - 1 Funcionário ','Apoio NF-e, NFS-e, NFC-e','Contabilidade Completa','Suporte Online via WhatsApp', 'Envio Mensal de CND'],
     highlight: false,
   },
   {
@@ -35,7 +35,7 @@ const planos = [
     price: "379",
     desc: "Para micro empresas em crescimento.",
     invoincing:'R$15.000 mês',
-    features: ['RH/Folha de pagamento - 2 Funcionario ','Apoio NF-e, NFS-e, NFC-e','Contabilidade Completa','Suporte Online via WhatsApp', 'Envio Mensal de CND','E-CNPJ 20% de desconto'],
+    features: ['RH/Folha de pagamento - 2 Funcionários ','Apoio NF-e, NFS-e, NFC-e','Contabilidade Completa','Suporte Online via WhatsApp', 'Envio Mensal de CND','E-CNPJ 20% de desconto'],
     highlight: true,
   },
 ];
