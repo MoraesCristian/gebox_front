@@ -5,4 +5,4 @@ services:
       dockerfile: Dockerfile.prod
     container_name: gebox_front_prod
     ports:
-      - "80:80"
+      - "127.0.0.1:8080:80"
